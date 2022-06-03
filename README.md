@@ -1,0 +1,1 @@
+# HangHae99_week3_mymagazine
