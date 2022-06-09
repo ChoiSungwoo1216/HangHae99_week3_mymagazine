@@ -238,6 +238,7 @@ const ColTxt = styled.div`
 width: 20vh;
 height: 4vh;
 line-height: 4vh;
+margin: auto;
 background-color: white;
 `;
 
